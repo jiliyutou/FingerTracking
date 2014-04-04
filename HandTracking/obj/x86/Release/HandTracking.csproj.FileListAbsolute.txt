@@ -1,0 +1,13 @@
+D:\Desktop\KinectWPFOpenCV\HandTracking\bin\Release\HandTracking.exe
+D:\Desktop\KinectWPFOpenCV\HandTracking\bin\Release\HandTracking.pdb
+D:\Desktop\KinectWPFOpenCV\HandTracking\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Desktop\KinectWPFOpenCV\HandTracking\obj\x86\Release\MainWindow.baml
+D:\Desktop\KinectWPFOpenCV\HandTracking\obj\x86\Release\MainWindow.g.cs
+D:\Desktop\KinectWPFOpenCV\HandTracking\obj\x86\Release\App.g.cs
+D:\Desktop\KinectWPFOpenCV\HandTracking\obj\x86\Release\HandTracking_MarkupCompile.cache
+D:\Desktop\KinectWPFOpenCV\HandTracking\obj\x86\Release\HandTracking.g.resources
+D:\Desktop\KinectWPFOpenCV\HandTracking\obj\x86\Release\HandTracking.Properties.Resources.resources
+D:\Desktop\KinectWPFOpenCV\HandTracking\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Desktop\KinectWPFOpenCV\HandTracking\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Desktop\KinectWPFOpenCV\HandTracking\obj\x86\Release\HandTracking.exe
+D:\Desktop\KinectWPFOpenCV\HandTracking\obj\x86\Release\HandTracking.pdb

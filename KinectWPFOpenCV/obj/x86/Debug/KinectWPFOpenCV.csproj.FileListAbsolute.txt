@@ -1,0 +1,15 @@
+D:\Desktop\KinectWPFOpenCV\KinectWPFOpenCV\bin\Debug\KinectWPFOpenCV.exe
+D:\Desktop\KinectWPFOpenCV\KinectWPFOpenCV\bin\Debug\KinectWPFOpenCV.pdb
+D:\Desktop\KinectWPFOpenCV\KinectWPFOpenCV\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Desktop\KinectWPFOpenCV\KinectWPFOpenCV\obj\x86\Debug\MainWindow.baml
+D:\Desktop\KinectWPFOpenCV\KinectWPFOpenCV\obj\x86\Debug\MainWindow.g.cs
+D:\Desktop\KinectWPFOpenCV\KinectWPFOpenCV\obj\x86\Debug\App.g.cs
+D:\Desktop\KinectWPFOpenCV\KinectWPFOpenCV\obj\x86\Debug\KinectWPFOpenCV_MarkupCompile.cache
+D:\Desktop\KinectWPFOpenCV\KinectWPFOpenCV\obj\x86\Debug\KinectWPFOpenCV.g.resources
+D:\Desktop\KinectWPFOpenCV\KinectWPFOpenCV\obj\x86\Debug\KinectWPFOpenCV.Properties.Resources.resources
+D:\Desktop\KinectWPFOpenCV\KinectWPFOpenCV\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Desktop\KinectWPFOpenCV\KinectWPFOpenCV\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Desktop\KinectWPFOpenCV\KinectWPFOpenCV\obj\x86\Debug\KinectWPFOpenCV.exe
+D:\Desktop\KinectWPFOpenCV\KinectWPFOpenCV\obj\x86\Debug\KinectWPFOpenCV.pdb
+D:\Desktop\KinectWPFOpenCV\KinectWPFOpenCV\obj\x86\Debug\KinectWPFOpenCV_Content.g.cs
+D:\Desktop\KinectWPFOpenCV\KinectWPFOpenCV\obj\x86\Debug\App.baml
